@@ -44,7 +44,7 @@ public class Indirizzo
 
     public string getZip()
     {
-        return città;
+        return zip;
     }
 
     public void setNome(string nome)
